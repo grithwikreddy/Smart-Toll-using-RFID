@@ -108,10 +108,6 @@ Add your circuit diagram here (or provide a link to it). Use a tool like [Fritzi
 
 ---
 
-## License  
-This project is licensed under the MIT License. You are free to use, modify, and distribute it. See the [LICENSE](LICENSE) file for details.  
-
----
 
 ## Acknowledgments  
 - **Libraries Used:** [MFRC522](https://github.com/miguelbalboa/rfid)  
